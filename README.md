@@ -1,3 +1,1 @@
-# beaupre
-
-ok!
+# Example Vulnerable SCA Project
